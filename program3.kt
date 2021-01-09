@@ -12,6 +12,8 @@ fun main() {
     print("\n") // println can be implemented in print using the newline escape sequence i.e. \n
     print("print is analogous to System.out.print(), ")
     print("after printing the cursor does not move to a new line")
+    println("!")
+    print("See I am on the next line")
 
 
 }
