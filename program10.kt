@@ -2,7 +2,7 @@ fun main()
 {
     println("Kotlin Supports type inferences on variables and properties like Python")
     println("It means that Kotlin can recognize what kind of a value we are trying to assign to a variable")
-    println("Thus, we can actually omit a type declaration of the variables")
+    println("Thus, we can actually omit a type declaration of the variables (Similar to Python)")
     var FirstName : String = "Niyati" //Way1
     var LastName = "Sinha" //Way2
     println(FirstName+" "+ LastName)

@@ -31,4 +31,7 @@ fun main()
     f = "not a null string"
     println("Now f is again: "+f)
 
+    //var g: String //Error : Kotlin: Variable 'g' must be initialized
+    //println(g)
+
 }
