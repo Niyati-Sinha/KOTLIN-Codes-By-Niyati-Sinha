@@ -5,9 +5,10 @@ like if I am declaring a variable without giving data type then at the very firs
 it is strictly necessary that it is null then only it will be treated as a nullable variable
  */
 
-/*but here again there is a condition that if at the very first initialization it is declared without mentioning data type
-as null then it can not be reassigned as if we try to reassign
-it will show error that it does not know the original data type of the variable and treated it as null
+/*but here again there is a condition that if at the very first initialization it is declared without
+mentioning data type as null (the only way possible to assign null without mentioning data type
+then it can not be reassigned as if we try to reassign it will show an error
+that it does not know the original data type of the variable and treated it as null
  */
 
 /*
